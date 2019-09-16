@@ -13,5 +13,5 @@ pip install udata-dataset-sidebar-example
 Then activate it in your `udata.cfg`:
 
 ```python
-PLUGINS = ['udata-dataset-sidebar-example']
+PLUGINS = ['dataset-sidebar-example']
 ```
